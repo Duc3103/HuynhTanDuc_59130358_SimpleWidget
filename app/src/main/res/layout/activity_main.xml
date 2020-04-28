@@ -117,13 +117,12 @@
         android:text="Sở thích khác:" />
 
     <EditText
-        android:id="@+id/ST"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_weight="1"
-        android:ems="10"
-        android:hint="Nhập sở thích khác"
-        android:inputType="numberDecimal" />
+    android:id="@+id/ST"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:ems="10"
+    android:hint="Nhập sở thích khác" />
 
     <Button
         android:id="@+id/btnXN"
